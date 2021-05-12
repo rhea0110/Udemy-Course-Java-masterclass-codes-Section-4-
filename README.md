@@ -81,6 +81,8 @@ public class EqualSumChecker {
     }
 }
 
+
+
 \\ Coding Excercise : 7 - Teen Number Checker
 
 public class TeenNumberChecker {
